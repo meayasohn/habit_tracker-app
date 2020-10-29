@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/habit_tracker-app/static/css/main.fcb02a2a.chunk.css",
+    "main.css": "/habit_tracker-app/static/css/main.b059f5cf.chunk.css",
     "main.js": "/habit_tracker-app/static/js/main.0497618f.chunk.js",
     "main.js.map": "/habit_tracker-app/static/js/main.0497618f.chunk.js.map",
     "runtime-main.js": "/habit_tracker-app/static/js/runtime-main.45dbb3fd.js",
@@ -8,15 +8,15 @@
     "static/js/2.081865fd.chunk.js": "/habit_tracker-app/static/js/2.081865fd.chunk.js",
     "static/js/2.081865fd.chunk.js.map": "/habit_tracker-app/static/js/2.081865fd.chunk.js.map",
     "index.html": "/habit_tracker-app/index.html",
-    "precache-manifest.87b69fc196847edb039a57cba923f6d3.js": "/habit_tracker-app/precache-manifest.87b69fc196847edb039a57cba923f6d3.js",
+    "precache-manifest.ad9607ce6f1e456b168248afb699050e.js": "/habit_tracker-app/precache-manifest.ad9607ce6f1e456b168248afb699050e.js",
     "service-worker.js": "/habit_tracker-app/service-worker.js",
-    "static/css/main.fcb02a2a.chunk.css.map": "/habit_tracker-app/static/css/main.fcb02a2a.chunk.css.map",
+    "static/css/main.b059f5cf.chunk.css.map": "/habit_tracker-app/static/css/main.b059f5cf.chunk.css.map",
     "static/js/2.081865fd.chunk.js.LICENSE.txt": "/habit_tracker-app/static/js/2.081865fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.45dbb3fd.js",
     "static/js/2.081865fd.chunk.js",
-    "static/css/main.fcb02a2a.chunk.css",
+    "static/css/main.b059f5cf.chunk.css",
     "static/js/main.0497618f.chunk.js"
   ]
 }
