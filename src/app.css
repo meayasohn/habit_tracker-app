@@ -113,6 +113,10 @@ button {
 }
 
 @media screen and (max-width: 500px) {
+  .add-input {
+    width: 80vw;
+  }
+
   .habit-add {
     flex-wrap: wrap;
   }
