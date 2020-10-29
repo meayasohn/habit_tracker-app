@@ -6,6 +6,7 @@ button {
   outline: none;
   border: 0;
   cursor: pointer;
+  border-radius: 0.1em;
 }
 
 .navbar {
@@ -42,6 +43,7 @@ button {
   font-size: 2rem;
   /* margin: 1rem; */
   margin-right: 0.2em;
+  border-radius: 0.1em;
 }
 
 .add-button {
@@ -59,7 +61,7 @@ button {
 
 .habit {
   font-size: 2.5rem;
-  padding: 0.5em;
+  padding: 0.2em;
   list-style: none;
 }
 
