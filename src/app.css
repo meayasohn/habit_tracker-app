@@ -36,12 +36,11 @@ button {
 .habit-add {
   display: flex;
   align-content: center;
-  margin: 10px;
+  margin: 0.2em;
 }
 
 .add-input {
   font-size: 2rem;
-  /* margin: 1rem; */
   margin-right: 0.2em;
   border-radius: 0.1em;
 }
@@ -105,4 +104,16 @@ button {
   margin-left: 0.2em;
   background-color: green;
   color: white;
+}
+
+@media screen and (min-width: 500px) {
+  .navbar {
+    width: 500px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .habit-add {
+    flex-wrap: wrap;
+  }
 }
