@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/habit_tracker_app/static/css/main.bcdcf551.chunk.css",
-    "main.js": "/habit_tracker_app/static/js/main.29178183.chunk.js",
-    "main.js.map": "/habit_tracker_app/static/js/main.29178183.chunk.js.map",
-    "runtime-main.js": "/habit_tracker_app/static/js/runtime-main.c9ac0a8e.js",
-    "runtime-main.js.map": "/habit_tracker_app/static/js/runtime-main.c9ac0a8e.js.map",
-    "static/js/2.081865fd.chunk.js": "/habit_tracker_app/static/js/2.081865fd.chunk.js",
-    "static/js/2.081865fd.chunk.js.map": "/habit_tracker_app/static/js/2.081865fd.chunk.js.map",
-    "index.html": "/habit_tracker_app/index.html",
-    "precache-manifest.0b9ab26983a84e684bbc89b7bf7a170b.js": "/habit_tracker_app/precache-manifest.0b9ab26983a84e684bbc89b7bf7a170b.js",
-    "service-worker.js": "/habit_tracker_app/service-worker.js",
-    "static/css/main.bcdcf551.chunk.css.map": "/habit_tracker_app/static/css/main.bcdcf551.chunk.css.map",
-    "static/js/2.081865fd.chunk.js.LICENSE.txt": "/habit_tracker_app/static/js/2.081865fd.chunk.js.LICENSE.txt"
+    "main.css": "/habit_tracker-app/static/css/main.bcdcf551.chunk.css",
+    "main.js": "/habit_tracker-app/static/js/main.0497618f.chunk.js",
+    "main.js.map": "/habit_tracker-app/static/js/main.0497618f.chunk.js.map",
+    "runtime-main.js": "/habit_tracker-app/static/js/runtime-main.45dbb3fd.js",
+    "runtime-main.js.map": "/habit_tracker-app/static/js/runtime-main.45dbb3fd.js.map",
+    "static/js/2.081865fd.chunk.js": "/habit_tracker-app/static/js/2.081865fd.chunk.js",
+    "static/js/2.081865fd.chunk.js.map": "/habit_tracker-app/static/js/2.081865fd.chunk.js.map",
+    "index.html": "/habit_tracker-app/index.html",
+    "precache-manifest.b5a8f1ba7b61ed489680bb638baaf7da.js": "/habit_tracker-app/precache-manifest.b5a8f1ba7b61ed489680bb638baaf7da.js",
+    "service-worker.js": "/habit_tracker-app/service-worker.js",
+    "static/css/main.bcdcf551.chunk.css.map": "/habit_tracker-app/static/css/main.bcdcf551.chunk.css.map",
+    "static/js/2.081865fd.chunk.js.LICENSE.txt": "/habit_tracker-app/static/js/2.081865fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9ac0a8e.js",
+    "static/js/runtime-main.45dbb3fd.js",
     "static/js/2.081865fd.chunk.js",
     "static/css/main.bcdcf551.chunk.css",
-    "static/js/main.29178183.chunk.js"
+    "static/js/main.0497618f.chunk.js"
   ]
 }
